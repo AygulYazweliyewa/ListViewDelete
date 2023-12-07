@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListViewDelete" parent="Theme.AppCompat.Light">
+      <item name="windowActionModeOverlay">true</item>
+        <item name="android:actionModeBackground">@style/ThemeOverlay.AppCompat.Light</item>
+    </style>
+
+    <style name="Theme.ListViewDelete" parent="Base.Theme.ListViewDelete" />
+</resources>
